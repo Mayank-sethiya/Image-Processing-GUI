@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🖼️ Image Processing GUI
 
 A simple, user-friendly MATLAB GUI for applying common image filters and effects. Built with MATLAB App Designer (single-app / modular code) to let you load images, preview edits in real-time, compare results, and save outputs.
